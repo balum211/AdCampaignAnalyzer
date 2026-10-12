@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+pandas>=2.1
+numpy>=1.26
+plotly>=5.20
+# Optional: AI-written summary on the Overview tab (needs ANTHROPIC_API_KEY)
+anthropic>=0.40
